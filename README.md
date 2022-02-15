@@ -1,3 +1,13 @@
+# App that is made to find pictures using React.js framework
+## Technologies
+
+- React
+- ReactDOM
+
+## Live deploy 
+https://lucid-spence-cb6e5f.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
