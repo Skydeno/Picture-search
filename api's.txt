@@ -1,0 +1,20 @@
+unsplash api - 4P7VhUUcDazXLmmgATybCVGyh9rUoAYZGUfhLPuf7vU
+
+GET /search/photos
+https://api.unsplash.com/search/photos
+
+Most actions can be performed without requiring authentication from a specific user. For example, searching, fetching, or downloading a photo does not require a user to log in.
+
+To authenticate requests in this way, pass your application’s access key via the HTTP Authorization header:
+
+Authorization: Client-ID YOUR_ACCESS_KEY
+
+Parameters
+param	Description
+query	Search terms.
+
+results:
+
+alt_description
+id
+urls.regular
